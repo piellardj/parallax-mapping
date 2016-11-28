@@ -11,7 +11,7 @@ Visually, the result is better than plain normal mapping but not as good as actu
 
 Below are screenshots illustrating the result of this technique. In the scene the geometry is a simple plane made of 4 vertices. Notice the dramatic improvement this technique provides compared to normal mapping.
 
-![alt text](screenshots/result1 "Comparison 1")
-![alt text](screenshots/result2 "Comparison 2")
+![alt text](screenshots/result1.jpg "Comparison 1")
+![alt text](screenshots/result2.jpg "Comparison 2")
 
 
