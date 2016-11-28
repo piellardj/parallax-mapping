@@ -15,3 +15,8 @@ Below are screenshots illustrating the result of this technique. In the scene th
 ![alt text](screenshots/result2.jpg "Comparison 2")
 
 
+# Credit
+If you want a good tutorial on parallax mapping, visit
+http://learnopengl.com/#!Advanced-Lighting/Parallax-Mapping
+or
+http://sunandblackcat.com/tipFullView.php?topicid=28
